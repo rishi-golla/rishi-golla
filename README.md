@@ -4,6 +4,6 @@
  
 <div align="center">
   <strong>Computer Science @ University of Texas at Dallas</strong><br>
-  <strong>Prev @ YC & NASA, 6x Hackathon Winner</strong>
+  <strong>Prev @ YC & NASA, 7x Hackathon Winner</strong>
 </div>
 <br>
